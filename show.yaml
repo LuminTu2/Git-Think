@@ -1,0 +1,13 @@
+server:
+  host: 127.0.0.1
+  port: 8080
+  tags:
+    - production
+    - api
+  containers:
+    - name: nginx
+      image: nginx:latest
+    - name: redis
+      image: redis:alpine
+  enabled: true
+

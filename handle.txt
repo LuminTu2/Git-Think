@@ -1,0 +1,13 @@
+contourpy
+cycler
+fonttools
+jupyterthemes
+kiwisolver
+lesscpy
+matplotlib
+numpy
+pillow
+ply
+pyparsing
+qtconsole
+QtPy
