@@ -16,7 +16,7 @@ name, date = "暂无", ""
 size = 50
 
 
-# 打包exe后的文件路径
+# 打包 exe 后的文件路径
 def resource_path(relative_path):
     try:
         base_path = sys._MEIPASS
