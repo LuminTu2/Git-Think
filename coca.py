@@ -10,3 +10,4 @@ if __name__ == '__main__':
     print("coca")
     print("coca modified")
     pass
+print("local-coca")
