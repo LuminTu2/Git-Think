@@ -1,0 +1,3 @@
+[submodule "libs/CommonLib"]
+	path = libs/CommonLib
+	url = https://github.com/lumin/wpad_check.git
