@@ -1,0 +1,14 @@
+From: Dev <dev@example.com>
+Subject: [PATCH] Fix login bug
+Date: Mon, 14 Jul 2026 15:00:00 +0800
+
+This fixes the login issue.
+
+-- >8 --
+diff --git a/main.c b/main.c
+index 123..456 100644
+--- a/main.c
++++ b/main.c
+@@ -1 +1 @@
+-old code
++fixed code
